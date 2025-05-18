@@ -1,3 +1,5 @@
+"use client";
+
 import UserDetailsClient from "./UserDetailsPage";
 
 interface Props {
